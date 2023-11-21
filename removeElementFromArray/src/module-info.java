@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author inzu
+ *
+ */
+module removeElementFromArray {
+}
